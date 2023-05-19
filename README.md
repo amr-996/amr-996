@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amr-996
+- 👋 Hi, I’m Amrou
 - 👀 I’m interested in data science, statistics, machine learning and bioinformatics
-- 📫 How to reach me: amrou.abas@studio.unibo.it
+- 📫 How to reach me: amrou.996@gmail.com
 
 <!---
 amr-996/amr-996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
